@@ -2,6 +2,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: DADFE8;
 }
 
 tr {
