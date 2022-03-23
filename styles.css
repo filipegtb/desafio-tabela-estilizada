@@ -1,0 +1,25 @@
+html {
+    margin: 60px;
+}
+
+tr {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+th {
+    padding: 15px;
+}
+
+td {
+    padding: 15px;
+    background-color: #424250;
+}
+
+.cabecalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabecalho-casa {
+    background-color: #00C4B4;
+}
